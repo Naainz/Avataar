@@ -1,0 +1,8 @@
+botorch
+diffusers
+transformers
+accelerate
+pandas
+huggingface_hub
+invisible-watermark
+safetensors
